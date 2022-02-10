@@ -51,7 +51,7 @@ header p {
 }
 
 #donations a:after {
-  content: 'ðŸ™';
+  content: '🙏';
   position: absolute;
   display: inline-block;
   font-size: 32px;
